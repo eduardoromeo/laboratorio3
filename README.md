@@ -1,1 +1,1 @@
-# laboratorio3
+# Labo-03-Diplomado
