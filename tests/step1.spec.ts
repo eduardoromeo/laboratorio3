@@ -1,4 +1,4 @@
-/*import { test, expect } from '@playwright/test';
+import { test, expect } from '@playwright/test';
 import { Pagina } from '../core/Pagina';
 
 let pageInstance: Pagina = new Pagina();
@@ -13,4 +13,4 @@ test('Step1 Laboratorio 3', async ({ page }) => {
     await page.locator(locatorSubmit).click();
     
     await expect(selectorInput).toHaveValue('STEP1');
-});*/
+});
